@@ -1,4 +1,5 @@
-"use strict";
+particlesJS("particles-js",
+	    "use strict";
 {
 	class Noise {
 		// http://mrl.nyu.edu/~perlin/noise/
